@@ -3,7 +3,7 @@ templateKey: index-page
 title: test
 image: /img/home-jumbotron.jpg
 heading: Head test
-subheading: Support sustainable farming while enjoying a cup
+subheading: test
 mainpitch:
   title: Why Kaldi
   description: >
