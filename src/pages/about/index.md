@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About
 ---
-~~**test**~~uuuuSingle origin
+Single origin
 
 ### https://laughing-allen-76a90d.netlify.com/Sustainable farming
 
