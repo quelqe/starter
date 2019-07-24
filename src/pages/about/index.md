@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About test
+title: About smith
 ---
 Single origin
 
